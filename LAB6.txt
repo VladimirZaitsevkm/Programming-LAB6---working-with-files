@@ -1,0 +1,15 @@
+1 red 7
+2 blue 9
+3 yellow 14
+4 white 20
+5 black 4
+6 purple 6
+7 brown 2
+8 green 5
+9 white 3
+10 green 22
+11 brown 2
+12 red 5
+13 white 30
+14 brown 12
+15 green 23
